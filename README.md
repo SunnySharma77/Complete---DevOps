@@ -19,5 +19,5 @@ Don't just read! Clone the repo, mess with the code, and try things out. Break s
 Jot down what you've learned after each session. You'll feel good seeing how far you've come. Plus, it's a great way to reinforce what you've covered.
 
 ### Have Questions? Ask Away! ❓
-If you hit a wall, don't panic. Drop me a message at [Sunnysharma4191@gmail.com] or reach out on [www.linkedin.com/in/
+If you hit a wall, don't panic. Drop me a message at [Sunnysharma41918@gmail.com] or reach out on [www.linkedin.com/in/
 sunny-sharma-261a7b313]. I'm happy to help, and no question is too silly!
